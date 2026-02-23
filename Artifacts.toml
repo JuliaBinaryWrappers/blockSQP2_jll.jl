@@ -1,0 +1,61 @@
+[[blockSQP2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd9313c4b7ab84ec0e08d041a15dfa99522bd380"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP2.download]]
+    sha256 = "d1beef024ae330d4e7ee8815b738a3e88e8450415e7246c9e2568a132b9e0905"
+    url = "https://github.com/JuliaBinaryWrappers/blockSQP2_jll.jl/releases/download/blockSQP2-v0.1.0+0/blockSQP2.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[blockSQP2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bc9dadaa99c8f1c1eb4f4f172c561b6ce94c16d"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP2.download]]
+    sha256 = "23cb26c7853084e78b096d54b9434fb7d59b4856ee0dd6995513808619e1b868"
+    url = "https://github.com/JuliaBinaryWrappers/blockSQP2_jll.jl/releases/download/blockSQP2-v0.1.0+0/blockSQP2.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[blockSQP2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a33cc5f903e7642fe6900c9fbebd1208fb08307"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP2.download]]
+    sha256 = "49937f27456313f2839ff7505e99c3404cc6af3c4b0c941f7fedb34ef3b2f8a4"
+    url = "https://github.com/JuliaBinaryWrappers/blockSQP2_jll.jl/releases/download/blockSQP2-v0.1.0+0/blockSQP2.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[blockSQP2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81ec1a5ebf2fa16c996c23e9934ca2f3ca163b47"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP2.download]]
+    sha256 = "a6c029a1184d002bdba4afe57a8630e930651b85cc6272e123b225527020cabe"
+    url = "https://github.com/JuliaBinaryWrappers/blockSQP2_jll.jl/releases/download/blockSQP2-v0.1.0+0/blockSQP2.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[blockSQP2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34600e78849f7d3ad5b46ee206e9ad6e44f7cb2c"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP2.download]]
+    sha256 = "faa6f70dc5f1b52e20f462358f0428e4c90294af379bbbbd83f51ae0ede72c4a"
+    url = "https://github.com/JuliaBinaryWrappers/blockSQP2_jll.jl/releases/download/blockSQP2-v0.1.0+0/blockSQP2.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[blockSQP2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1c46d5b5b7228aa5a9bcdb8066eb294017bab2c"
+os = "windows"
+
+    [[blockSQP2.download]]
+    sha256 = "f0e6956b09fd99b2e1561300e744556c38a063328b46213db2ebee8aef2271f3"
+    url = "https://github.com/JuliaBinaryWrappers/blockSQP2_jll.jl/releases/download/blockSQP2-v0.1.0+0/blockSQP2.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
